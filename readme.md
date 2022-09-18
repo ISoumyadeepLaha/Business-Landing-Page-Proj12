@@ -32,4 +32,4 @@ It almost tooked 4 hrs 10 mins
 
 # Live Link
 
-[Netlify Live...]()
+[Netlify Live...](https://business-landing-page-proj12-sl.netlify.app/)
